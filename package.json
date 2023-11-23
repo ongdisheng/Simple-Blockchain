@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ongdisheng/Simple-Blockchain#readme",
   "dependencies": {
-    "crypto-js": "^4.2.0"
+    "crypto-js": "^4.2.0",
+    "elliptic": "^6.5.4"
   }
 }
